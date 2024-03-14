@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Top 10 Best Seller</string>
+    <string name="books_name">Judul Buku</string>
+    <string name="penulis">Penulis</string>
+    <string name="description">Sinopsis</string>
+    <string name="negara">Negara</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="genre">Genre</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="tgl_terbit">Tahun Terbit</string>
+    <string name="hlm">Halaman</string>
+    <string name="isbn">ISBN</string>
+    <string name="detail_book">Detail Buku</string>
+    <string name="about_page">About Page</string>
+    <string name="nama">Katherine Febrianty Sumartono</string>
+    <string name="email">a553d4kx4344@bangkit.academy</string>
+    <string-array name="data_name">
+        <item>Cantik Itu Luka</item>
+        <item>Cerita-cerita Bahagia Hampir Seluruhnya</item>
+        <item>Kita Pergi Hari Ini</item>
+        <item>The Star and I</item>
+        <item>Bibi Gill</item>
+        <item>Layangan Putus</item>
+        <item>Hujan</item>
+        <item>Home Sweet Loan</item>
+        <item>Heartbreak Motel</item>
+        <item>Laut Bercerita</item>
+    </string-array>
+    <string-array name="data_penulis">
+        <item>Eka Kurniawan</item>
+        <item>Norman Erikson Pasaribu</item>
+        <item>Ziggy Z</item>
+        <item>Ilana Tan</item>
+        <item>Tere Liye</item>
+        <item>Mommy ASF</item>
+        <item>Tere Liye</item>
+        <item>Almira Bastari</item>
+        <item>Ika Natassa</item>
+        <item>Leila S. Chudori</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Novel Cantik Itu Luka becerita tentang alur hidup Dewi Ayu, pelacur cantik di zaman kolonial. Garis hidup dan keturunan Dewi Ayu sangat unik, mulai dari silsilah ayah-ibu hingga anak-anaknya yang kelak banyak membawa pengaruh di Halimunda, wilayah rekaan Eka Kurniawan. Sejak kecil, Dewi Ayu tumbuh tanpa asuhan ayah dan ibu yang terusir karena kawin sedarah (perkawinan saudara tiri). Dewi Ayu diasuh oleh kakek-neneknya. Ia tumbuh menjadi gadis kuat dan pemberani. Salah satu bukti keberaniannya adalah ketegarannya hidup di penjara saat Jepang menyerang Hindia Belanda. Di tempat penahanan itulah, Dewi Ayu menyerahkan kesuciannya demi membantu rekannya di barak penampungan. Dua tahun kemudian, Dewi Ayu termasuk salah satu di antara 19 gadis tahanan yang dipindahkan ke rumah mewah yang dikelola Mama Kalong. Di tempat itulah, Dewi Ayu memulai hidupnya sebagai pelacur untuk melayani nafsu para tentara Jepang. Selama menjadi pelacur, Dewi Ayu melahirkan empat anak perempuan. Semuanya tidak jelas identitas ayahnya. Sebagaimana ibunya, tiga dari putri Dewi Ayu berparas sangat cantik. Dewi Ayu merasa bahwa mengasuh anak-anak yang sangat cantik amat merepotkan. Karena itulah, ketika hamil anak keempat, ia berharap bahwa anaknya menjadi anak buruk rupa dan demikianlah yang terjadi. Akan tetapi, Dewi Ayu tidak sempat menyaksikan putri bungsunya tersebut. Ironisnya, sebelum ia meninggal, Dewi Ayu memberi nama putri buruk rupanya itu dengan nama Si Cantik. Demikianlah kehidupan Si Cantik yang penuh luka. Nama yang ia emban sangat memberatkan hidupnya karena senyatanya ia berparas buruk rupa, tidak cantik rupawan sama sekali. Simak kisah kelanjutan Si Cantik dan petualangan hidup Dewi Ayu dalam novel Cantik Itu Luka (2002) karya Eka Kurniawan.</item>
+        <item>Sinopsis novel Cerita-Cerita Bahagia Hampir Seluruhnya menceritakan kisah dari Jakarta hingga Vietnam mulai dari ruang karaoke sampai di alam roh. Cerita dalam buku novel mengkisahkan tokoh-tokoh penjaga scoring musik, ibu, teman kos, suster, karyawan divisi ilahiah, dan banyak lagi tokoh pendamping yang lainnya. Sebenarnya, novel ini mengkisahkan banyak peristiwa yang tidak beres dalam kehidupan masyarakat Hipokrit. Terdapat beberapa sub judul dalam novelnya yaitu “Panduan Menyintas Patah Hati bagi Penyair Muda”. “Metaxu”, “Divisi Doa Tak Berjawab”, dan “Tiga Mencintaimu, Empat Membencimu”. Pada bagian cerita dalam buku ini, kita akan menemukan banyak kisah lama yang akan ikut mengatur dalam mekanisme dan arah kehidupan. Ada sebelas cerita dalam novel yang termaktum dengan ketebalan cerita yang berbeda-beda. Inti-inti ceritanya sangatlah menarik hingga membuat jiwa pembacanya menjadi terguncang.</item>
+        <item>Kelima anak kecil yang tinggal di kota kecil bernama Kota Suara, memiliki keinginan untuk menyusuri sebuah kota yang mengagumkan, tempat di mana tinggalnya makhluk yang luar biasa. Kota Terapung Kucing Luar Biasa namanya. Dan ya, sesuai dengan namanya, kota tersebut dipenuhi oleh para penduduk berupa kucing yang menyerupai manusia. Berjalan dengan dua kaki, menggunakan dua tangan, bekerja, dan melakukan aktivitas lain layaknya seorang manusia. Bahkan, mereka kucing luar biasa dapat menjadi seorang pengasuh bagi anak manusia. Petualangan tiga anak Keluarga Mo, yaitu Ma, Mi, dan Mo, dan dua anak kembar yang tinggal di samping rumahnya, Fifi, dan Fufu, menyusuri Kota Terapung Kucing Luar Biasa bersama dengan pengasuh kucing mereka yang bernama Nona Gigi adalah sebuah kesalahan.</item>
+        <item>"Kulihat dunia dalam matamu dan masa depan dalam senyummu..." Sejak kecil, Olivia Mitchell ingin tahu siapa orangtua kandungnya. Jadi, ketika ia mendapat kesempatan bekerja di New York, ia pun menyambarnya tanpa ragu. Namun, mencari seseorang tanpa nama di kota sebesar New York adalah sesuatu yang mustahil. Kini kontrak kerja Olivia akan segera berakhir, dan Olivia menolak pulang ke Inggris sebelum berhasil melacak keberadaan orangtua kandungnya. Itu berarti ia harus segera mencari pekerjaan baru supaya ia bisa tetap tinggal di New York. Seolah-olah semua itu belum cukup memusingkan, Olivia mendadak bertemu kembali dengan Rex Rankin---sahabat masa kecilnya, sekaligus cinta pertamanya yang gagal---yang muncul untuk menawarkan bantuan.</item>
+        <item>Bagaimana menjadi petarung terkuat di dunia paralel? Dengan latihan panjang dan pengorbanan. Termasuk kehilangan dan kesedihan. Inilah kisah tentang Bibi Gill, yang sejak kecil berusaha mengalahkan "monster" dalam hidupnya. Apakah dia bisa menemukan jawaban yang selama ini dia cari? Hei, jika kalian melihat seseorang yang amat sederhana, seperti ibu-ibu penjaga kantin, tukang sapu, sopir ojek online. Jangan buru-buru menilainya memang sesederhana itu. Boleh jadi dia adalah pemilik teknik bertarung paling mematikan di dunia paralel.</item>
+        <item>Seorang gadis remaja lugu dan polos yang berasal dari daerah, tumbuh, berkembang, dan menemukan cinta di kota besar yang sangat berbeda dengan iklim daerah asalnya. Gadis remaja ini hanya memiliki mimpi sederhana, yaitu menyambung pendidikan dan menyelesaikannya tepat waktu. Namun, semua itu berubah ketika ia bertemu dengan seorang pria tangguh. Lelaki yang mandiri dan berpendirian keras itu mengenalkannya dengan dunia baru yang belum pernah ia temui di daerah asalnya. Laki-laki bernama Aris itu membuat Kinan jatuh cinta karena sosoknya yang menyenangkan, gigih, dan mampu mengubah cara pandangnya kepada dunia. Hingga akhirnya Mereka berdua menyamakan visi dan berjanji dalam ikatan pernikahan. mereka memulai semua kehidupan dari awal, Kinan dengan setia mendampingi Aris membangun mimpi mereka. Perubahan pola pikir Aris kembali mengubah cara pandang Kinan terhadap prioritas kehidupan. Kinan tetap setia di sisi Aris dan melupakan mimpinya menjadi seorang wanita karier serta memilih merawat keluarga di rumah sesuai permintaan Aris, sambil kembali mengenal Tuhan. Aris mampu meyakinkan Kinan bahwa cukup Aris saja yang bekerja di luar rumah dan itu sudah cukup membawa Kinan memenuhi mimpinya saat kecil bertualang menaiki balon udara. Kinan jatuh cinta akan keindahan Cappadocia dan balon udara yang menghiasi angkasa. Kinan mempunyai mimpi pergi ke Capadocia, Turki. Namun takdir berkata lain saat Kinan menemukan foto-foto di ponsel suaminya. Di mana Kinan melihat dan menikmati keindahan Capadocia, tapi dari foto sang suami bersama wanita lain. Dunia seperti runtuh, orang yang paling Kinan percayai, ternyata telah tega berbohong dan menyakitinya selama ini. Dua belas hari menghilang, Aris kembali ke rumah dengan semua hal baru yang tak pernah Kinan duga. Kehidupan rumah tangganya pun akhirnya tidak selamanya bisa bahagia, namun Kinan tetap berusaha dan bekerja keras agar mampu menghidupi anak-anaknya dalam menggapai setiap impian.</item>
+        <item>Di masa depan, pada 2042, dunia dipenuhi dengan teknologi-teknologi canggih. Peran manusia tergantikan oleh ilmu pengetahuan dan mesin mutakhir pada masa itu. Lail adalah seorang perempuan berusia 13 tahun. Ketika hari pertama sekolah, Lail dihadapkan dengan bencana gunung meletus dan gempa dahsyat. Bencana itu meluluhlantakkan kota tempat ia tinggal. Tidak hanya itu, musibah besar tersebut merenggut nyawa kedua orang tua Lail. Beruntungnya, Lail diselamatkan oleh remaja laki-laki berusia 15 tahun yang bernama Esok. Laki-laki ini memiliki ibu yang juga penyintas bencana tersebut. Sayangnya, kedua kaki ibu Esok harus diamputasi. Lail dan Esok menjadi dekat. Selepas bencana, mereka tinggal di sebuah pengungsian. Keduanya seperti kakak-adik yang tak terpisahkan. Semua orang mengenali mereka dengan baik. Lail dan Esok juga sering membantu petugas pengungsian. Singkat cerita, beberapa waktu kemudian pemerintah mengumumkan bahwa tempat pengungsian mereka akan ditutup. Penutupan itu membuat Esok dan Lail berpisah. Lail menetap di panti sosial, sedangkan Esok diadopsi menjadi anak angkat sebuah keluarga kaya. Belakangan, keluarga yang mengadopsi Esok diketahui merupakan keluarga walikota, pejabat terhormat di kota tempat tinggal mereka. Saat di panti sosial, Lail bertemu dengan Maryam, teman sekamarnya yang sangat lucu, ceria, dan penuh semangat. Lail dan Maryam menjadi teman dekat. Kelak, mereka bersama-sama memutuskan menjadi relawan. Lail dan Maryam mengabdikan hidup mereka untuk membantu orang-orang yang terdampak bencana. Meskipun Lail dan Esok berpisah, keduanya memiliki jadwal pertemuan setiap sebulan sekali. Bagi Lail, pertemuan itu sangatlah berarti. Saat bertemu, mereka mengisi pertemuan dengan obrolan ringan, berbagi cerita dari aktivitas atau kegiatan masing-masing. Namun, jadwal pertemuan itu menjadi berantakan karena Esok meneruskan pendidikan ke ibukota. Akibatnya, Lail dan Esok hanya bisa bertemu saat Esok liburan semester. Sementara itu, Lail dan kawannya, Maryam mendaftarkan diri sebagai relawan di sebuah organisasi kemanusiaan. Maryam dan Lail menjadi relawan termuda dan keduanya berprestasi. Meskipun Lail dan Esok memiliki kesibukan masing-masing, tetapi Esok masih menyempatkan diri untuk menemui Lail. Kedatangan Esok sering kali tanpa terduga-duga. Sayangnya, frekuensi pertemuan Lail dan Esok semakin jarang. Mereka kemudian hanya bertemu satu kali setahun. Itu pun jika Esok tidak sibuk. Saat itulah intensitas komunikasi Lail dan Esok menjadi renggang. Singkat cerita, Esok terlibat dalam proyek kapal luar angkasa yang akan membawa penduduk Bumi ke luar angkasa demi menghindari bencana dahsyat yang dikhawatirkan akan merusak Bumi. Penduduk Bumi yang boleh pergi dipilih secara acak. Esok memiliki dua tiket. Ayah angkaynya, sang walikota meminta agar satu tiket itu diberikan kepada anak kandungnya, yaitu Claudia. Kesalahpahaman terjadi. Lail menyadari perasaan yang ia miliki pada Esok. Di titik ini, Lail membutuhkan kepastian. Namun, satu hari sebelum pengumuman pemerintah, tidak ada kabar dari Esok. Perasaan Lail kacau, lalu ia memutuskan masuk ke ruang modifikasi ingatan. Lail ingin menghilangkan beban pikiran dan menghapus kenangan bersama Esok dari ingatannya. Ternyata Esok sedang melakukan proses pemindahan data sehingga tidak bisa mengabari Lail. Namun, proses operasi terlanjur dilakukan dan tidak bisa dihentikan. Lantas bagaimana kelanjutan kisah mereka? Akankan Lail melupakan Esok setelah kenangan tentang Esok mengisi hati dan memori Lail?</item>
+        <item>Novel Home Sweet Loan ini mengangkat genre yang serupa dengan novel Almira Bastari sebelumnya berjudul “Ganjil Genap” yakni metropop. Namun novel Home Sweet Loan ini menyajikan cerita yang lebih serius. Seperti novel karya Almira Bastari yang lain, Novel Home Sweet Loan ini menggunakan latar cerita di Kota Jakarta. Namun novel ini lebih menyoroti kaum menengah dengan mengisahkan perjuangan dari sudut pandang mereka. Novel Home Sweet Loan akan memberikan gambaran sesungguhnya mengenai kehidupan kaum kelas menengah atau bahkan kelas bawah, yang berjuang untuk memiliki tempat pulang. Meski terdengar seperti novel yang sangat serius, novel ini masih tetap masuk ke dalam kategori chicklit romantis. Novel Home Sweet Loan akan mengisahkan tentang perjuangan 4 orang sahabat yang berbeda nasib dalam membeli rumah. Cerita Home Sweet Loan berfokus pada kehidupan pribadi salah satu tokoh utamanya yang bernama Kaluna, termasuk kisah cintanya dengan kekasihnya yang kaya raya. Sebagian pembaca menganggap kisah hanya ada di novel Home Sweet Loan ini marak terjadi di beberapa lingkungan.</item>
+        <item>Novel Heartbreak Motel mengisahkan kehidupan Ava Alessandra sebagai seorang aktris populer yang memiliki banyak penghargaan. Setiap kali mendapatkan peran, pastinya ia akan mencoba menghidupi karakter peran yang diberikan itu. Ava terus mempelajari berbagai metode akting, juga melatih pergolakan emosi yang dialami oleh tokoh yang ia perankan. Oleh karena itu, setelah selesai akting untuk sebuah film, Ava memilih untuk menyendiri, memulihkan dirinya, dan mencari jati dirinya kembali di suatu tempat yang disebut Heartbreak Motel. Sejak usia 16 tahun, Ava menekuni dunia akting yang dicintainya dengan penuh lika-liku. Tidak hanya karir, Ava juga mengalami perjalanan panjang akan kisah cintanya. Bersama seorang pria, Ava sempat menemukan kebahagiaan. Hanya saja ternyata mempertahankan hubungan sebagai sesama figur publik tidak mudah. Sebuah momen pahit harus diterima Ava dalam hubungan tersebut yang membuat hatinya dan hidupnya terasa tak sama lagi. Di Heartbreak Motel, Ava bertemu dengan seorang lelaki bernama Raga. Di hari pertamanya Ava bertemu dengan Raga, Raga tidak mengenali Ava sebagai seorang aktris. Bukannya merasa tersinggung, Ava justru merasa nyaman dianggap sebagai orang biasa. Namun menyembunyikan fakta bahwa Ava merupakan seorang artis ternama justru menimbulkan banyak permasalahan yang harus ia tanggung sendiri. Meskipun kebanyakan orang mengira bahwa seorang artis memiliki hidup yang membanggakan, tetapi bagi Ava tidak. Ava mengalami berbagai macam persoalan mulai dari kesehatan mentalnya, pelecehan seksual yang dialaminya, drama percintaan, konflik keluarga, dan lainnya. Konflik keluarga menjadi permasalahan paling rumit dan menonjol dalam kehidupan Ava. Ayahnya pergi dari rumah dari Ava masih kecil dan tidak pernah kembali, sehingga membuat ibunya harus membesarkan Ava seorang diri. Kisah tersebut menciptakan luka dan menyisakan banyak pertanyaan yang menghantui Ava. Hingga pada suatu hari, Ava berhasil menemukan jawaban atas pertanyaan yang mengusik isi kepalanya. Betapa terkejutnya saat Ava tau alasan ayahnya meninggalkan ia dan ibunya dulu.</item>
+        <item>Novel Laut Bercerita dikisahkan dalam beberapa babak. Babak pertama novel berlatar di tahun 1998 mengisahkan tentang seorang mahasiswa bernama Biru Laut yang diculik oleh sekelompok orang tidak dikenal. Bersama dengan tiga temannya yang lain, ia dibawa ke sebuah tempat tidak dikenal dan disekap selama berbulan-bulan. Selama disekap keempat sekawan itu diinterogasi, dipukul, ditendang, digantung, dan disetrum agar bersedia membuka suara. Orang-orang itu ingin tahu, siapa dalang di balik gerakan aktivis dan mahasiswa kala itu. Masih di tahun yang sama, keluarga Wibisono tengah menjalani aktivitas di hari Minggu seperti biasanya. Setelah acara masak bersama, sang ayah menyusun piring di atas meja untuk empat orang, untuk dirinya, untuk sang ibu, untuk si bungsu, dan juga untuk Biru Laut. Namun, meski lama menunggu Biru Laut tidak kunjung muncul. Dua tahun selang hilangnya Biru Laut secara misterius, sang adik Asmara Jati dan Tim Komisi Orang Hilang yang dipimpin oleh Aswin Pradana mencoba mencari jejak mereka yang hilang. Mereka juga mempelajari testimoni dari mereka yang kembali. Tidak hanya Asmara Jati, kekasih Laut, Anjani dan juga orang tua serta istri aktivis yang hilang turut menuntut kejelasan nasib anggota keluarga mereka. Sementara itu, dari dasar laut yang sunyi, Biru Laut bercerita kepada dunia tentang apa yang terjadi pada dirinya dan kawan-kawannya.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/cantik_itu_luka</item>
+        <item>@drawable/cerita_cerita_bahagia_hampir_seluruhnya</item>
+        <item>@drawable/kita_pergi_hari_ini</item>
+        <item>@drawable/the_star_and_i</item>
+        <item>@drawable/bibi_gill</item>
+        <item>@drawable/layangan_putus_1</item>
+        <item>@drawable/hujan</item>
+        <item>@drawable/home_sweet_loan</item>
+        <item>@drawable/heartbreak_motel</item>
+        <item>@drawable/laut_bercerita</item>
+    </integer-array>
+    <integer-array name="data_about_us">
+        <item>@drawable/katherine_febrianty_sumartono</item>
+    </integer-array>
+<!--    data tambahan-->
+    <string-array name="data_negara">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+    </string-array>
+    <string-array name="data_bahasa">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+    </string-array>
+    <string-array name="data_genre">
+        <item>Fiction, Fiksi sejarah, Realisme</item>
+        <item>Fiction, Kumpulan Cerpen</item>
+        <item>Fantasy, Fiction, Thriller, Horror, Dark, Adventure, Family, Young Adult, Indonesian Literature</item>
+        <item>Romance, Fiction, Indonesian Literature, Contemporary, Young Adult, Adult, Drama, Chick Lit, Love</item>
+        <item>Fantasy, Adventure, Fiction, Novels, Action, Indonesian Literature, Drama, Young Adult, Science Fiction Fantasy</item>
+        <item>Fiction</item>
+        <item>Romance, Fiction, Novels, Indonesian Literature, Fantasy, Science Fiction, Young Adult, Dystopia, Love, Drama</item>
+        <item>Romance, Fiction, Novels, Indonesian Literature, Chick Lit, Slice of Life, Contemporary, Drama, Family, Contemporary Romance</item>
+        <item>Romance, Fiction, Novels, Contemporary, Indonesian Literature, Love, Contemporary Romance</item>
+        <item>Fiction</item>
+    </string-array>
+    <string-array name="data_penerbit">
+        <item>Penerbit Jendela, Gramedia Pustaka Utama(Jakarta)</item>
+        <item>Gramedia Pustaka Utama(Jakarta)</item>
+        <item>Gramedia Pustaka Utama(Jakarta)</item>
+        <item>Gramedia Pustaka Utama(Jakarta)</item>
+        <item>Gramedia Pustaka Utama(Jakarta)</item>
+        <item>Rdm Publisher</item>
+        <item>Gramedia Pustaka Utama(Jakarta)</item>
+        <item>Gramedia Pustaka Utama(Jakarta)</item>
+        <item>Gramedia Pustaka Utama(Jakarta)</item>
+        <item>Kepustakaan Populer Gramedia</item>
+    </string-array>
+    <string-array name="data_tgl_terbit">
+        <item>2002</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2016</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2017</item>
+    </string-array>
+    <string-array name="data_hlm">
+        <item>537 hlm</item>
+        <item>202 hlm</item>
+        <item>192 hlm</item>
+        <item>344 hlm</item>
+        <item>358 hlm</item>
+        <item>256 hlm</item>
+        <item>320 hlm</item>
+        <item>312 hlm</item>
+        <item>400 hlm</item>
+        <item>379 hlm</item>
+    </string-array>
+    <string-array name="data_isbn">
+        <item>ISBN 978-602-031-258-3</item>
+        <item>ISBN 978-602-06-4010-5</item>
+        <item>ISBN 978-602-065-747-9</item>
+        <item>ISBN 978-602-064-966-5</item>
+        <item>ISBN 978-623-972-624-9</item>
+        <item>ISBN 978-602-072-909-1</item>
+        <item>ISBN 978-602-032-478-4</item>
+        <item>ISBN 978-602-065-804-9</item>
+        <item>ISBN 978-602-065-884-1</item>
+        <item>ISBN 978-602-424-694-5</item>
+    </string-array>
+</resources>
